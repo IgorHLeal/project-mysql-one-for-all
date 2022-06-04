@@ -16,3 +16,7 @@ WHERE
   title LIKE '%Silly' OR
   title LIKE '%Circus'
 ORDER BY title ASC;
+
+
+-- Referências:
+-- REPLACE: https://www.w3schools.com/sql/func_sqlserver_replace.asp
